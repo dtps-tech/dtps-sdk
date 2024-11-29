@@ -1,0 +1,1 @@
+{"version":3,"file":"dtpsclient.d.ts","sourceRoot":"","sources":["../src/dtpsclient.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,GAAG,EAAc,MAAM,WAAW,CAAA;AAG3C,UAAU,cAAc;IACtB,GAAG,EAAE,MAAM,CAAA;IACX,MAAM,EAAE,MAAM,CAAA;IACd,SAAS,EAAE,MAAM,CAAA;CAClB;AAYD,qBAAa,UAAU;IACrB,IAAI,CAAC,MAAM,EAAE,cAAc;IAM3B,OAAO,CAAC,kBAAkB;CAsC3B"}

@@ -1,0 +1,11 @@
+<%
+const { routeInfo, utils } = it;
+const { summary } = routeInfo;
+const { _ } = utils;
+
+const createCustomOperationId = (summary) => {
+  return _.camelCase(summary)
+};
+
+return createCustomOperationId(summary);
+%>
